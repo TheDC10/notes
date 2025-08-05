@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEraser",
       "LiImages",
       "LiStickyNote",
       "LiNetwork",
-      "LiTags",
-      "LiList"
+      "LiTags"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "3 - Tags": "LiTags",
   "2 - Source Material": "LiNetwork",
   "1 - Rough Notes": "LiStickyNote",
-  "Pictures": "LiImages"
+  "Pictures": "LiImages",
+  "1 - Rough notes": "LiEraser"
 }
